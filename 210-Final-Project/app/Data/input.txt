@@ -1,0 +1,4 @@
+Enter the student you want to check
+Ruby
+Enter the class you want to check
+250

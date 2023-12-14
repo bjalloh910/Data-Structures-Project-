@@ -1,0 +1,1 @@
+My program is very easy to use you just pick a student and a class to analyze. Then my program will output a result of other students that student is taking that same class with. I have provided an image to show an example of what the output should look like so you know it's working in the picture folder. 

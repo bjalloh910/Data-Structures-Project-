@@ -1,0 +1,14 @@
+Bibliographic Information:
+- Source URL: N/A (As this is a synthetic dataset created for the project)
+- Authors/Owners: Bintu Jalloh 
+
+Graph Details:
+- Number of Nodes: 15 (The nodes repreesents a student name)
+- Number of Edges: 19 (The edges represent a connection of who is taking classes together)
+- Each edge has value(s) on them that repreesents classes 
+
+Qualities of the Graph:
+- Graph Type: undirected 
+- Self-Edges: Not Allowed 
+- Duplicate Edges: Not allowed (Each relationship is unique)
+- Other Choices Made: I made it a MutableValueGraph so the edges could have the type of class(s)
